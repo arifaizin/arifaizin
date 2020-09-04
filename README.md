@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Ahmad Arif Faizin
+
+I’m a Curriculum Developer [@dicoding](https://www.dicoding.com/)
+
+<a title="Medium" href="https://medium.com/@arifaizin"><img alt="Medium Profile" src="https://raw.githubusercontent.com/ahmedrizwan/ahmedrizwan/master/icons/articles.png" height="50" width="130" /></a>
+<a title="Instagram" href="https://www.instagram.com/arif_faizin/"><img alt="Instagram Profile" src="https://raw.githubusercontent.com/ahmedrizwan/ahmedrizwan/master/icons/twitter.png" height="50" width="130" /></a>
+
 
 <!--
 **arifaizin/arifaizin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
